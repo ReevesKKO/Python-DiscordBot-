@@ -125,5 +125,5 @@ async def Пресет(ctx):
 		else:
 			await response.respond(embed=discord.Embed(color=0xa84300,title="Заполнять по форме: \n!Выбор steam_id64 nickname Рандом"))
 
-bot.run(os.getenv('TOKEN'))
+bot.run('ODUzOTAyNTM4Mzg1MjYwNTg1.YMcItQ.bHbbE9dhX9OJ4TQ4MuqCkOMOqHs')
 
