@@ -1,6 +1,5 @@
 discord
 discord.py
 datetime
-os
 discord_components
 discord.ext
