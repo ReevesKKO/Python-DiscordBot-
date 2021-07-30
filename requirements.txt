@@ -3,8 +3,4 @@ discord.py
 datetime
 os
 discord_components
-DiscordComponents
-Button
-ButtonStyle
 discord.ext
-commands
